@@ -1,0 +1,1 @@
+Everything whit $$ is a practice or text code, soon it will be used for next versions 
